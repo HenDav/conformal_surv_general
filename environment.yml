@@ -1,0 +1,36 @@
+name: conformal_surv_general
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - nvidia
+  - anaconda
+dependencies:
+  - cudatoolkit=11.8.0
+  - cudnn=8.9.7.29
+  - ipykernel
+  - ipython
+  - jupyter
+  - pandas
+  - pycox
+  - python=3.10.0
+  - pytorch=2.4.0
+  - torchvision
+  - pytorch-cuda
+  - scikit-learn
+  - seaborn
+  - sklearn-pandas
+  - tqdm
+  - pip:
+    - ucimlrepo
+    - scikit-survival
+    - lifelines
+    - scikit-multilearn
+    - torchtuples
+    - matplotlib
+    - scipy
+    - sklearn_pandas
+    - SurvivalEVAL
+    - wandb
+    - h5py
+prefix: /home/dahen/miniconda3/envs/conformal_surv_general
