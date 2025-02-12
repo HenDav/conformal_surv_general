@@ -17,3 +17,15 @@ conda env create -f environment.yml
 ```
 
 Experiments are reprodicible through `experiments.ipynb'
+
+## Citation
+
+```
+@inproceedings{davidov2025conformalized,
+  title={Conformalized Survival Analysis for General Right-Censored Data},
+  author={Hen Davidov and Shai Feldman and Gil Shamai and Ron Kimmel and Yaniv Romano},
+  booktitle={International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=JQtuCumAFD}
+}
+```
