@@ -21,10 +21,10 @@ Experiments are reprodicible through `experiments.ipynb'
 ## Citation
 
 ```
-@inproceedings{davidov2025conformalized,
+@inproceedings{davidovconformalized,
   title={Conformalized Survival Analysis for General Right-Censored Data},
-  author={Hen Davidov and Shai Feldman and Gil Shamai and Ron Kimmel and Yaniv Romano},
-  booktitle={International Conference on Learning Representations},
+  author={Davidov, Hen and Feldman, Shai and Shamai, Gil and Kimmel, Ron and Romano, Yaniv},
+  booktitle={The Thirteenth International Conference on Learning Representations},
   year={2025},
   url={https://openreview.net/forum?id=JQtuCumAFD}
 }
